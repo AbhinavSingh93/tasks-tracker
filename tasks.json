@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "task": "Buy grociries",
+    "status": "todo",
+    "createdAt": "2025-02-17T11:37:19.389Z",
+    "updatedAt": "2025-02-17T11:37:19.583Z"
+  },
+  {
+    "id": 3,
+    "task": "clean bed",
+    "status": "done",
+    "createdAt": "2025-02-17T11:37:40.939Z",
+    "updatedAt": "2025-02-17T11:41:46.749Z"
+  }
+]

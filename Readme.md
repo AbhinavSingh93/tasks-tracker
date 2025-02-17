@@ -1,8 +1,6 @@
-# Project-url
-https://github.com/AbhinavSingh93/tasks-tracker
-
-
 # Task Tracker CLI
+
+Sample solution for the task-tracker challenge from roadmap.sh. URL :: https://roadmap.sh/projects/task-tracker
 
 This is a simple **command-line interface (CLI)** tool to manage tasks. It allows you to add, update, delete, and list tasks. The tasks are stored in a `tasks.json` file, and each task has properties such as `id`, `description`, `status`, `createdAt`, and `updatedAt`.
 
